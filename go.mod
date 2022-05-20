@@ -1,4 +1,4 @@
-module github.com/MrPnut/elktail/v7
+module github.com/mrpnut/elktail/v7
 
 go 1.18
 
